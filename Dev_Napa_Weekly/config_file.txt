@@ -1,0 +1,4 @@
+machine_num = 1
+total_machines = 40
+number_of_chrome_widows = 1
+mongodb_maxage(days) = 30
